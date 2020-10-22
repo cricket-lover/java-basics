@@ -1,4 +1,4 @@
-public class Hcf{
+public class HCF{
   public static void main(String [] args){
     if(args.length != 0){
       int num1 = Integer.parseInt(args[0]);
